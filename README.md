@@ -1,5 +1,8 @@
 # Petal
 
+The core idea of this project is to implement the PETAL tech stack. 
+PETAL stands for: Phoenix, Elixir, Tailwindcss, AlpineJS and LiveView.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
